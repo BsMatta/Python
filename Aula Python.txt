@@ -1,0 +1,25 @@
+declaracaod e listaq
+
+L = []
+L = [0]
+L = [1,2,3]
+L = [1, "Hello",3]
+L = [0] = -1
+
+X = L[:]
+U = L[2:5]
+
+L.append(12) metodo que adiciona 
+
+Z = list(a)
+
+for i in L:
+for i in range(10)
+	 pass
+
+
+
+
+from behave import given
+rondon.rondom()
+import random

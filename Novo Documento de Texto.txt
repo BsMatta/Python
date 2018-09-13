@@ -1,0 +1,22 @@
+if cond:
+    c1()
+    if cond2:
+        c2()
+    c3
+
+if cond:
+    faz_uma_coisa()
+elif cond2:
+elif cond3:
+else:
+
+soma = 0
+num = int(input("Numero))
+while num!=0:
+    soma += num
+    num = int(input("Numero))
+print ("Total=", soma)
+print("total=%d" % (soma))
+
+python -m pip instal flake8
+python -m behave --lang-help pt

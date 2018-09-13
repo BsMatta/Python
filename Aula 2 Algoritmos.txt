@@ -1,0 +1,9 @@
+Print("Hello World")
+Print("Hello World", username)
+Print("Hello,{}".format(username)
+
+int(input())
+int(input("Valor:"))
+
+3/2 ponto flutuante
+3//2 divisao
